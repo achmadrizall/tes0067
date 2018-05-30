@@ -1,0 +1,4 @@
+Progid : TI
+Jurusan : TI
+Fakultas : FTIK
+Universitas : USM
